@@ -1,0 +1,37 @@
+
+
+
+h1{
+    font-size: 60px;
+}
+
+h2{
+    font-size: 36px;
+}
+
+.hire-me{
+    background-image: linear-gradient(orange, rgb(255, 234, 0));
+    padding: 10px 40px;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+}
+
+.heder-color{
+    color: orange;
+}
+
+
+
+.onsection{
+    display: flex;
+}
+
+.onsection-items{
+    width: 50%;
+}
+
+.onsection-items img{
+    width: 80%;
+}
